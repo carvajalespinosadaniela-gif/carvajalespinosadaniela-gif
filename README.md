@@ -29,7 +29,7 @@
 
 ### Últimas Entradas
 
-[Implementando la libreria turtle desde cero](./tarea2/tarea2_unidad1.md)
+[Implementando la libreria turtle desde cero](https://github.com/carvajalespinosadaniela-gif/mi-primera-pagina/blob/main/tarea2/tarea2_unidad1.md)
 
 ### Tarea Mini-Turtle
 
