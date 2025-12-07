@@ -29,5 +29,5 @@
 
 ### Tarea Mini-Turtle
 
-[Ejercicio 1: Versión Funcional (Modularidad)](https://github.com/carvajalespinosadaniela-gif/mini_turtle_functional)
-[Ejercicio 2: Versión Orientada a Objetos (POO)](https://github.com/carvajalespinosadaniela-gif/mini_turtle_oo_task)
+- [Ejercicio 1: Versión Funcional (Modularidad)](https://github.com/carvajalespinosadaniela-gif/mini_turtle_functional)
+- [Ejercicio 2: Versión Orientada a Objetos (POO)](https://github.com/carvajalespinosadaniela-gif/mini_turtle_oo_task)
