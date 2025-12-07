@@ -27,6 +27,10 @@
 
 ⭐️ *Gracias por visitar mi perfil. ¡Explora mis repositorios y proyectos!*
 
+### Últimas Entradas
+
+[Implementando la libreria turtle desde cero](./tarea2/tarea2_unidad1.md)
+
 ### Tarea Mini-Turtle
 
 - [Ejercicio 1: Versión Funcional (Modularidad)](https://github.com/carvajalespinosadaniela-gif/mini_turtle_functional)
